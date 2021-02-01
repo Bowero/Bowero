@@ -10,6 +10,7 @@ Welcome to my Github profile! I'm Robin Martijn, a developer from the Netherland
 - 1st place Media Hack Day of Media Perspectives (december 2019)
 - 1st place Rotterdam International Case Academy Challenge (january 2020)
 - 2nd place Media Hack Day of Media Perspectives (september 2020)
+- 1st place Rotterdam Case Competition (january 2021)
 
 ### 🌴 Fun facts
 - I [blog](https://bowero.nl/blog/) about various subjects, mostly about [C programming](https://bowero.nl/blog/category/c/).
