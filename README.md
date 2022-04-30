@@ -19,5 +19,5 @@ Welcome to my Github profile! I'm Robin Martijn, a developer from the Netherland
 
 ### ☕ Get in touch
 - LinkedIn: [robinmartijn](https://www.linkedin.com/in/robinmartijn/)
-- Website: [bowero.nl](https://bowero.nl/)
-- Blog: [bowero.nl/blog](https://bowero.nl/blog)
+- Twitter: [RobinMartijn](https://www.twitter.com/robinmartijn/)
+- Website: [robinmartijn.nl](https://robinmartijn.nl/)
