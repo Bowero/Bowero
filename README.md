@@ -13,11 +13,12 @@ Welcome to my Github profile! I'm Robin Martijn, a developer from the Netherland
 - 1st place Rotterdam Case Competition (january 2021)
 
 ### 🌴 Fun facts
-- I [blog](https://bowero.nl/blog/) about various subjects, mostly about [C programming](https://bowero.nl/blog/category/c/).
+- I [blog](https://robinmartijn.nl/) about various subjects, mostly (about PHP) programming.
 - Besides English and Dutch, I also speak quite a bit of German, French and Italian.
 - Despite the Javascript hype, I am still a big fan of PHP and Laravel.
 
 ### ☕ Get in touch
 - LinkedIn: [robinmartijn](https://www.linkedin.com/in/robinmartijn/)
 - Twitter: [RobinMartijn](https://www.twitter.com/robinmartijn/)
+- Mastodon: <a rel="me" href="https://phpc.social/@robin">@robin@phpc.social</a>
 - Website: [robinmartijn.nl](https://robinmartijn.nl/)
