@@ -20,5 +20,4 @@ Welcome to my Github profile! I'm Robin Martijn, a developer from the Netherland
 ### ☕ Get in touch
 - LinkedIn: [robinmartijn](https://www.linkedin.com/in/robinmartijn/)
 - Twitter: [RobinMartijn](https://www.twitter.com/robinmartijn/)
-- Mastodon: <a rel="me" href="https://phpc.social/@robin">@robin@phpc.social</a>
 - Website: [robinmartijn.nl](https://robinmartijn.nl/)
